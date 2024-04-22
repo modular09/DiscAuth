@@ -1,4 +1,6 @@
 #  OAuth
+> Please be aware that, if ___YOUR___ using the bot and any Raids happen by the bot not being active or any issues happen from ___YOUR___ end, the bot is not counted liable.
+
 With __OAuth__, it insures that you keep your community/private server protected from any Raids. Add Rulesets to restrict permissions from administrators/moderators. Safely keep your server clean and OK!
 
 # Setup
