@@ -9,8 +9,6 @@ With __OAuth__, it insures that you keep your community/private server protected
 > __VS Code/IDE(PyCharm)/App__ (Not as recommended)
 
 ## Step-by-Step
-1. Create `main.py` & `ruleset.py`
-2. Copy-Paste file code from `master` branch onto `main.py` & `ruleset.py`.
-3. `pip install discord` (Incase your using __VS Code/IDE(PyCharm)/App__ or __pythonanywhere.com__)
-4. On __pythonanywhere.com__, create new bash-console. Afterwards, type  `pip install discord`.
-5. Run `main.py`, setup bot on server.
+1. Download both `main.py` and `ruleset.py`
+2. If your on `pythonanywhere` or an __VS Code/IDE(PyCharm)/App__, open `bash-console`/`console` on the file. Type `pip install discord`.
+3. Replace the `str` on `bot.run(str)` to bot token taken from discord.com/developers, run `main.py` and configure on server. 
